@@ -3,9 +3,7 @@ Repositorio para la práctica en Lex de la asignatura Modelos de Computación. G
 
 ## Autores
 Pablo Cordero Romero ([@corderop](https://github.com/corderop/))
-
 Francisco Domínguez Lorente
-
 David Gómez Hernández ([@DavidGmezHdez](https://github.com/davidgmezhdez/))
 
 ## Contenido
